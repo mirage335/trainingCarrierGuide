@@ -1,0 +1,29 @@
+
+_Color Coding_
+Green - Distance
+Cyan - Speed, Altitude, Climb
+Orange - OnSpeed
+
+
+_Parameters_
+-) Case 1 recovery.
+	1.25nmi	- 250kts		600ft					Parallel, Offset, Outbound, of Base Recovery Course
+	1nmi	- ONSPEED		400ft		-600fpm			OPTIONAL
+							370ft			BALL
+	0.75nmi	- ONSPEED		320ft
+	0.5nmi	- ONSPEED		200ft
+
+-) Case 3 recovery.
+	25nmi	- 250kts		5000ft		~2000fpm
+	15nmi	- 250kts		1200ft		~100fpm
+	10nmi	- ONSPEED		1000ft		-100fpm
+	6nmi	- ONSPEED		800ft		-200fpm
+	4nmi	- ONSPEED		600ft		0fpm
+	1.25mmi - ONSPEED		600ft		
+	1nmi	- ONSPEED		400ft		-600fpm
+							370ft			BALL
+	0.75nmi	- ONSPEED		320ft
+	0.5nmi	- ONSPEED		200ft
+	
+	(Side-number) (aircraft type) ball, (fuel-state)
+
